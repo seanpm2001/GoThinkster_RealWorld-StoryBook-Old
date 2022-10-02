@@ -2,7 +2,7 @@ import React from 'react';
 import {Wrapper} from "./Wrapper.jsx";
 
 export default {
-  title: 'Example/Header',
+  title: 'Header',
   component: Wrapper,
 };
 
